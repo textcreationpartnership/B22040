@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from both Houses of Parliament to the Kings most Excellent Majesty the 16 of March 1641 concerning speciall matters.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22040</idno><idno type="EEBO-CITATION">12598627</idno>
+  <idno type="VID">197756</idno>
+  <idno type="EEBO-PROQUEST">2240971768</idno>
+  
+            <idno type="STC">Wing E1658</idno>
+            <idno type="OCLC">12598627</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197756)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 250:E138, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from both Houses of Parliament to the Kings most Excellent Majesty the 16 of March 1641 concerning speciall matters.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Franke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+                  <note>With: To the knights, citizens, and burgesses of the House in Parliament now assembled / [London: s.n., 1642] John Salvin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197756:1"/>
+            <p>A MESSAGE Sent from both Houses of Par<g ref="char:EOLhyphen"/>liament to the Kings most excellent Majesty, the 16 of <hi>March</hi> 1641, Concerning speciall matters.</p>
+            <figure>
+               <figDesc>framed printer's device of John Norton, featuring a fleur-de-lis (McKerrow 267)</figDesc>
+               <head>
+                  <q>IN DOMINO CONFIDO</q>
+               </head>
+            </figure>
+            <p>LONDON, Printed for <hi>Iohn Franke,</hi> and are to be sold at his shop next doore to the Kings head in <hi>Fleetstreet,</hi> 1642.</p>
+            <pb facs="tcp:197756:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:197756:2"/>
+            <head>May it please your Majesty,</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesties most humble and faithfull Subjects, the Knights, Citizens, and Bur<g ref="char:EOLhyphen"/>gesses of the Commons House of Parliament, having conside<g ref="char:EOLhyphen"/>red your Majesties Reply to their Answer, touching such persons as have beene licenced by your Majestie to passe into <hi>Ireland,</hi> doe most humbly beseech your Majestie to believe, that they shall always with thankfulnes and joy receive from your Majesty any satisfactory Answer to their just requests: And, as they hope, they shall finde in your Majesty a readinesse to rectifie those things, which have beene done to their prejudice, so will they bee carefull to remove all apprehensions of their Actions or Speeches, which may seeme to cast any dishonour upon your Majesty.</p>
+            <p>For your Majesties better satisfaction concern<g ref="char:EOLhyphen"/>ing the positive affirmation, that many of the chief Commanders now in the head of the Rebels (af<g ref="char:EOLhyphen"/>ter the Ports were stopped by order of both hou<g ref="char:EOLhyphen"/>ses) have been suffered to passe by your Majesties immediate warrant. May it please your Majesty to consider that herein they have affirmed nothing
+<pb n="2" facs="tcp:197756:3"/> but what they had cause to believe was true, the grounds whereof they humbly present to your Majesty.</p>
+            <p>The first ground is this, that both Houses of Par<g ref="char:EOLhyphen"/>liament, (having upon your Majesties commen<g ref="char:EOLhyphen"/>dation taken into their care the suppression of the Rebellion of <hi>Ireland)</hi> had reason to be especi<g ref="char:EOLhyphen"/>ally watchfull over the Ports, because the Re<g ref="char:EOLhyphen"/>bels abounding in numbers of men for the most part ignorant of the use of their Armes could by no means become dangerous or formidable to this Kingdome, but by the accesse of Souldiers and Commanders, wherewith they were like to be furnished either out of <hi>France</hi> or <hi>Planders,</hi> from both which places the passage into <hi>Ireland</hi> is speedy and easie through this Kingdome, and thereof they could not chuse but be very sensible of whatsoever gave liberty or opportunitie to such a passage, as of a very hurtfull and dangerous grie<g ref="char:EOLhyphen"/>vance, for prevention whereof they did upon the seventh of <hi>November</hi> agree upon an Order and re<g ref="char:EOLhyphen"/>strain all passage into <hi>Ireland,</hi> but upon due and strict examination by such persons as were trusted to make those Licences.</p>
+            <p>A second ground that the other Licence granted to the Lord <hi>Delvin,</hi> and then acknowledged by your Majesties Answer, were such (both in regard of the persons to whom they were granted, and the extent of the words in which they were granted,) as were apt to produce such an effect as is men<g ref="char:EOLhyphen"/>tioned in that positive Affirmation, that is, to
+<pb n="3" facs="tcp:197756:3"/> open a way for the passage of Papists and other dan<g ref="char:EOLhyphen"/>gerous persons to joyne with the Rebels, and to bee Heads and Commanders amongst them, which is thus proved.</p>
+            <p>The Warrant granted to Colonell <hi>Butler,</hi> (since the order of restraint by both Houses of Parliament) did extend to all Ports of <hi>England</hi> and <hi>Scotland,</hi> and did giue free passage to himselfe and to his Company, without any qualification of persons, or Limitation of Number, and this Colonell was himselfe a Papist, had a Brother in Rebellion, and Generall of the Re<g ref="char:EOLhyphen"/>bels in <hi>Munster,</hi> was expected, and very much desired by those Rebels, who for a long time kept a Regi<g ref="char:EOLhyphen"/>ment to be commanded by him, as we have beene cre<g ref="char:EOLhyphen"/>dibly informed.</p>
+            <p>The second was granted to a Sonne of the Lord <hi>Nettersfield,</hi> which Lord had foure sonnes in <hi>England</hi> since the Rebellion, one of which is settled in <hi>England,</hi> three others intended to passe into <hi>Ireland,</hi> and were all dangerous persons being Papists, bred in the Wars, in the service of the King of <hi>Spaine,</hi> and one of them lately become a Jesuit.</p>
+            <p>The third to the Lord <hi>Delvin</hi> extends to himselfe, and foure persons more unnamed, that one of those who should have past with him is taken to bee a Je<g ref="char:EOLhyphen"/>suite, and another who calls himselfe <hi>Ploncket,</hi> seems to be a man of some breeding and quality, and like to have beene serviceable to the Rebels, and to have done mischiefe, if he had gone over.</p>
+            <p>The fourth to Sir <hi>George Hamilton,</hi> and three more unnamed; This Gentleman is likewise a profest Pa<g ref="char:EOLhyphen"/>pist, and may be doubted to be of the partie of the
+<pb n="4" facs="tcp:197756:4"/> Rebels, one of that Name being mentioned in the instructions of <hi>Sempill</hi> the Jesuit, amongst divers o<g ref="char:EOLhyphen"/>ther dangerous persons of the popish party in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> which instructions were found in a ship stayed in <hi>Cornwall,</hi> which was going into <hi>Ireland</hi> with divers Jesuits, souldiers, and others for the in<g ref="char:EOLhyphen"/>couragement of the Rebels.</p>
+            <p>A third ground is this, That by vertue and Autho<g ref="char:EOLhyphen"/>rity of these Licences, severall persons have passed over, which are now in Actuall Rebellion, and Joyned with the Rebels, and some have command amongst them which is thus proved.</p>
+            <p>One Captaine <hi>Sutton,</hi> did by vertue and Authori<g ref="char:EOLhyphen"/>ty of your Majesties Licence imbarque at <hi>White-ha<g ref="char:EOLhyphen"/>ven,</hi> in the Coompany of Colonel <hi>Butler,</hi> and was driven backe by foule weather; Whereupon the Co<g ref="char:EOLhyphen"/>lonell stayed, and went to <hi>Chester,</hi> but that Captaine reimbarqued himselfe in the same Bottome, and pas<g ref="char:EOLhyphen"/>sed into <hi>Ireland,</hi> where he went into Rebellion with the Lord <hi>Dunsany,</hi> and hath since obtained the place of a Colonell amongst the Rebels, as we are very cre<g ref="char:EOLhyphen"/>dibly informed.</p>
+            <p>Two of the Sonnes of the Lord <hi>Nettersfield,</hi> one a Jesuite, and the other a Souldier, passed into <hi>Ireland</hi> in December last, both of them by vertue of your Majestes Warrant, as we have cause to beleeve, for that they went both together in one Ship, and the Licence acknowledged to be granted by your War<g ref="char:EOLhyphen"/>rant must needs be granted to one of them, seeing the other Brother, who lately endevoured to passe over, did produce no Licence, and upon his Examination
+<pb n="5" facs="tcp:197756:4"/> doth absolutely deny that he had any.</p>
+            <p>A fourth ground (which we humbly offer to your Majesty) is this, That your Majesty cannot be assured that no other did passe upon your Licence, as your Majesty doth conceive, and are pleased to expresse in your Answer, and that we had great cause to beleeve that divers other had passed over by your Warrant, besides the persons afore-mentioned, and that for these reasons;</p>
+            <p n="1">1. Because we received such a generall Informati<g ref="char:EOLhyphen"/>on, that divers now in the head of the Rebels were passed by your Majesties Licence, which being true in part, and easie <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be effected, in regard of the Na<g ref="char:EOLhyphen"/>ture and extent of the Warrants, and probable to be attempted, in regard of the subtilty and vigilancie of that party, to make use of all advantages, seemed to deserve credit, which we should not have given to it, if it had beene a naked information without such cir<g ref="char:EOLhyphen"/>cumstances.</p>
+            <p n="2">2. Because wee had concurring Advertisements from <hi>Ireland</hi> and <hi>Chester,</hi> that divers Priests, Jesuites, and popish Commanders had passed ouer, and were landed there, and particularly some of Colonell <hi>But<g ref="char:EOLhyphen"/>lers</hi> Company, and that the Officers of the Ports had kept no Entrie of the names of these persons, or of the Warrants by which they were transported.</p>
+            <p>These we hope will be sufficient to perswade your Majesty to beleeve, that as we had some cause to give
+<pb n="6" facs="tcp:197756:5"/> credit to the said Informations, so we had no intenti<g ref="char:EOLhyphen"/>on to make any ill use of them to your Majesties dis<g ref="char:EOLhyphen"/>honour, but did impute the blame to your Ministers, who might have beene more carefull to have infor<g ref="char:EOLhyphen"/>med your Majestie of the Quality of those persons named in your Licences, and so to have limited them, that they might not have extended to others, as they did, how many and dangerous soever.</p>
+            <p>And they pray your Majesty to rest assured, that they shall alwayes be tender of your Honour and re<g ref="char:EOLhyphen"/>putation with your good Subjects, and for this cause have made this true Declaration of the full state of this matter, that they may thinke no otherwise of it then the truth, &amp; in all things shall labour to establish a good understanding and confidence, betwixt your Majestie, and your people, which they heartily de<g ref="char:EOLhyphen"/>sire, and pray for, as the chiefest meanes of pre<g ref="char:EOLhyphen"/>serving the Honour, safetie, and prospe<g ref="char:EOLhyphen"/>rity of your Majestie, and your Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
